@@ -1,0 +1,22 @@
+{
+  "ignorePath": "",
+  "ignoreTags": "",
+  "includePath": "",
+  "includeTags": "",
+  "propertyName": "Folders",
+  "titleProp": "",
+  "iconProp": "vf_icon",
+  "cmdShowTitle": false,
+  "sortTreeBy": "file_name",
+  "sortTreeRev": false,
+  "hideOrphans": false,
+  "UseWikiLinks": true,
+  "folderAsString": false,
+  "confirmDelete": true,
+  "autoReveal": false,
+  "autoCollapse": false,
+  "lastSeenVersion": "",
+  "tagHighlights": [],
+  "exposeMetadata": false,
+  "customOrder": {}
+}
