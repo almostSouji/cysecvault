@@ -196,5 +196,8 @@
     }
   },
   "active": "3840ace1280624a3",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "deployment.json",
+    "deployment"
+  ]
 }
